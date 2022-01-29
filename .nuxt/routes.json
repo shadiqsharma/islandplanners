@@ -1,0 +1,114 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_3edb9f22"
+  },
+  {
+    "name": "blog-post",
+    "path": "/blog-post",
+    "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/blog-post.vue",
+    "chunkName": "pages/blog-post",
+    "_name": "_05cd38cd"
+  },
+  {
+    "name": "blog-posts",
+    "path": "/blog-posts",
+    "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/blog-posts.vue",
+    "chunkName": "pages/blog-posts",
+    "_name": "_90f4fc14"
+  },
+  {
+    "name": "components",
+    "path": "/components",
+    "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/components.vue",
+    "chunkName": "pages/components",
+    "_name": "_4caec024"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_0744a502"
+  },
+  {
+    "name": "ecommerce",
+    "path": "/ecommerce",
+    "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/ecommerce.vue",
+    "chunkName": "pages/ecommerce",
+    "_name": "_62d0bca2"
+  },
+  {
+    "name": "home-page",
+    "path": "/home-page",
+    "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/home-page.vue",
+    "chunkName": "pages/home-page",
+    "_name": "_b0997ac2"
+  },
+  {
+    "name": "landing",
+    "path": "/landing",
+    "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/landing.vue",
+    "chunkName": "pages/landing",
+    "_name": "_2277e779"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_6c1ca36a"
+  },
+  {
+    "name": "pricing",
+    "path": "/pricing",
+    "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/pricing.vue",
+    "chunkName": "pages/pricing",
+    "_name": "_61b3dda8"
+  },
+  {
+    "name": "product",
+    "path": "/product",
+    "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/product.vue",
+    "chunkName": "pages/product",
+    "_name": "_a827635e"
+  },
+  {
+    "name": "profile",
+    "path": "/profile",
+    "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/profile.vue",
+    "chunkName": "pages/profile",
+    "_name": "_0f6c1e0b"
+  },
+  {
+    "name": "sections",
+    "path": "/sections",
+    "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/sections.vue",
+    "chunkName": "pages/sections",
+    "_name": "_80d39688"
+  },
+  {
+    "name": "signup",
+    "path": "/signup",
+    "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/signup.vue",
+    "chunkName": "pages/signup",
+    "_name": "_7ec3efb4"
+  },
+  {
+    "name": "starter",
+    "path": "/starter",
+    "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/starter.vue",
+    "chunkName": "pages/starter",
+    "_name": "_97b21c1e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_004a0b34"
+  }
+]
