@@ -3,112 +3,96 @@
     "name": "about",
     "path": "/about",
     "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/about.vue",
-    "chunkName": "pages/about",
-    "_name": "_3edb9f22"
+    "chunkName": "pages/about"
   },
   {
     "name": "blog-post",
     "path": "/blog-post",
     "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/blog-post.vue",
-    "chunkName": "pages/blog-post",
-    "_name": "_05cd38cd"
+    "chunkName": "pages/blog-post"
   },
   {
     "name": "blog-posts",
     "path": "/blog-posts",
     "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/blog-posts.vue",
-    "chunkName": "pages/blog-posts",
-    "_name": "_90f4fc14"
+    "chunkName": "pages/blog-posts"
   },
   {
     "name": "components",
     "path": "/components",
     "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/components.vue",
-    "chunkName": "pages/components",
-    "_name": "_4caec024"
+    "chunkName": "pages/components"
   },
   {
     "name": "contact",
     "path": "/contact",
     "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/contact.vue",
-    "chunkName": "pages/contact",
-    "_name": "_0744a502"
+    "chunkName": "pages/contact"
   },
   {
     "name": "ecommerce",
     "path": "/ecommerce",
     "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/ecommerce.vue",
-    "chunkName": "pages/ecommerce",
-    "_name": "_62d0bca2"
+    "chunkName": "pages/ecommerce"
   },
   {
-    "name": "home-page",
-    "path": "/home-page",
-    "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/home-page.vue",
-    "chunkName": "pages/home-page",
-    "_name": "_b0997ac2"
+    "name": "index-sample",
+    "path": "/index-sample",
+    "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/index-sample.vue",
+    "chunkName": "pages/index-sample"
   },
   {
     "name": "landing",
     "path": "/landing",
     "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/landing.vue",
-    "chunkName": "pages/landing",
-    "_name": "_2277e779"
+    "chunkName": "pages/landing"
   },
   {
     "name": "login",
     "path": "/login",
     "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/login.vue",
-    "chunkName": "pages/login",
-    "_name": "_6c1ca36a"
+    "chunkName": "pages/login"
   },
   {
     "name": "pricing",
     "path": "/pricing",
     "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/pricing.vue",
-    "chunkName": "pages/pricing",
-    "_name": "_61b3dda8"
+    "chunkName": "pages/pricing"
   },
   {
     "name": "product",
     "path": "/product",
     "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/product.vue",
-    "chunkName": "pages/product",
-    "_name": "_a827635e"
+    "chunkName": "pages/product"
   },
   {
     "name": "profile",
     "path": "/profile",
     "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/profile.vue",
-    "chunkName": "pages/profile",
-    "_name": "_0f6c1e0b"
+    "chunkName": "pages/profile"
   },
   {
     "name": "sections",
     "path": "/sections",
     "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/sections.vue",
-    "chunkName": "pages/sections",
-    "_name": "_80d39688"
+    "chunkName": "pages/sections"
   },
   {
     "name": "signup",
     "path": "/signup",
     "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/signup.vue",
-    "chunkName": "pages/signup",
-    "_name": "_7ec3efb4"
+    "chunkName": "pages/signup"
   },
   {
     "name": "starter",
     "path": "/starter",
     "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/starter.vue",
-    "chunkName": "pages/starter",
-    "_name": "_97b21c1e"
+    "chunkName": "pages/starter"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/fauxfox/Documents/software/templates /nuxt-now-ui-kit-pro-v1.1.0/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_004a0b34"
+    "chunkName": "pages/index"
   }
 ]

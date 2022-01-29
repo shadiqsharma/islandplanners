@@ -52,7 +52,7 @@
             <div class="col-md-5">
               <!-- First image on the right side, above the article -->
               <div class="image-container image-right"
-                   style="background-image: url('img/bg39.jpg')"></div>
+                   style="background-image: url('img/home4.jpeg')"></div>
               <h3>So what does the new record for the lowest level of winter ice actually mean</h3>
               <p>The Arctic Ocean freezes every winter and much of the sea-ice then thaws every summer,
                 and that process will continue whatever happens with climate change. Even if the Arctic

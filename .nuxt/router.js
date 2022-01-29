@@ -10,7 +10,7 @@ const _90f4fc14 = () => interopDefault(import('../pages/blog-posts.vue' /* webpa
 const _4caec024 = () => interopDefault(import('../pages/components.vue' /* webpackChunkName: "pages/components" */))
 const _0744a502 = () => interopDefault(import('../pages/contact.vue' /* webpackChunkName: "pages/contact" */))
 const _62d0bca2 = () => interopDefault(import('../pages/ecommerce.vue' /* webpackChunkName: "pages/ecommerce" */))
-const _b0997ac2 = () => interopDefault(import('../pages/home-page.vue' /* webpackChunkName: "pages/home-page" */))
+const _4c88a1da = () => interopDefault(import('../pages/index-sample.vue' /* webpackChunkName: "pages/index-sample" */))
 const _2277e779 = () => interopDefault(import('../pages/landing.vue' /* webpackChunkName: "pages/landing" */))
 const _6c1ca36a = () => interopDefault(import('../pages/login.vue' /* webpackChunkName: "pages/login" */))
 const _61b3dda8 = () => interopDefault(import('../pages/pricing.vue' /* webpackChunkName: "pages/pricing" */))
@@ -57,9 +57,9 @@ export const routerOptions = {
     component: _62d0bca2,
     name: "ecommerce"
   }, {
-    path: "/home-page",
-    component: _b0997ac2,
-    name: "home-page"
+    path: "/index-sample",
+    component: _4c88a1da,
+    name: "index-sample"
   }, {
     path: "/landing",
     component: _2277e779,
