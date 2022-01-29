@@ -4,7 +4,7 @@
             :color-on-scroll="colorOnScroll"
             menu-classes="ml-auto">
         <template slot-scope="{toggle, isToggled}">
-                <nuxt-link v-popover:popover1 class="navbar-brand" to="/home-page">
+                <nuxt-link v-popover:popover1 class="navbar-brand" to="/">
                     Langkawi Art Village Budget Rooms
                 </nuxt-link>
                 <el-popover
