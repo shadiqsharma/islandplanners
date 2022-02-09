@@ -1,5 +1,5 @@
 {
-  "title": "nuxt-now-ui-kit-pro",
+  "title": "Islandplannerz",
   "meta": [
     {
       "hid": "charset",
@@ -18,7 +18,7 @@
     {
       "hid": "apple-mobile-web-app-title",
       "name": "apple-mobile-web-app-title",
-      "content": "nuxt-now-ui-kit-pro"
+      "content": "Islandplannerz"
     },
     {
       "hid": "author",
@@ -28,7 +28,7 @@
     {
       "hid": "description",
       "name": "description",
-      "content": "Nuxt Now UI Kit PRO - Premium Nuxt.js UI Kit for Bootstrap"
+      "content": "Islandplannerz"
     },
     {
       "hid": "og:type",
@@ -40,19 +40,19 @@
       "hid": "og:title",
       "name": "og:title",
       "property": "og:title",
-      "content": "nuxt-now-ui-kit-pro"
+      "content": "Islandplannerz"
     },
     {
       "hid": "og:site_name",
       "name": "og:site_name",
       "property": "og:site_name",
-      "content": "nuxt-now-ui-kit-pro"
+      "content": "Islandplannerz"
     },
     {
       "hid": "og:description",
       "name": "og:description",
       "property": "og:description",
-      "content": "Nuxt Now UI Kit PRO - Premium Nuxt.js UI Kit for Bootstrap"
+      "content": "Islandplannerz"
     }
   ],
   "link": [
@@ -69,7 +69,7 @@
     },
     {
       "rel": "manifest",
-      "href": "/_nuxt/manifest.83a2b3d4.json",
+      "href": "/_nuxt/manifest.0f636695.json",
       "hid": "manifest"
     }
   ],
