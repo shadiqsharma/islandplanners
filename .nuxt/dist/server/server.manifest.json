@@ -1,0 +1,43 @@
+{
+  "entry": "server.js",
+  "files": {
+    "17.js": "17.js",
+    "pages/about.js": "pages/about.js",
+    "pages/blog-post.js": "pages/blog-post.js",
+    "pages/blog-posts.js": "pages/blog-posts.js",
+    "pages/components.js": "pages/components.js",
+    "pages/contact.js": "pages/contact.js",
+    "pages/ecommerce.js": "pages/ecommerce.js",
+    "pages/index-sample.js": "pages/index-sample.js",
+    "pages/index.js": "pages/index.js",
+    "pages/landing.js": "pages/landing.js",
+    "pages/login.js": "pages/login.js",
+    "pages/pricing.js": "pages/pricing.js",
+    "pages/product.js": "pages/product.js",
+    "pages/profile.js": "pages/profile.js",
+    "pages/sections.js": "pages/sections.js",
+    "pages/signup.js": "pages/signup.js",
+    "pages/starter.js": "pages/starter.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "17.js": "17.js.map",
+    "pages/about.js": "pages/about.js.map",
+    "pages/blog-post.js": "pages/blog-post.js.map",
+    "pages/blog-posts.js": "pages/blog-posts.js.map",
+    "pages/components.js": "pages/components.js.map",
+    "pages/contact.js": "pages/contact.js.map",
+    "pages/ecommerce.js": "pages/ecommerce.js.map",
+    "pages/index-sample.js": "pages/index-sample.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/landing.js": "pages/landing.js.map",
+    "pages/login.js": "pages/login.js.map",
+    "pages/pricing.js": "pages/pricing.js.map",
+    "pages/product.js": "pages/product.js.map",
+    "pages/profile.js": "pages/profile.js.map",
+    "pages/sections.js": "pages/sections.js.map",
+    "pages/signup.js": "pages/signup.js.map",
+    "pages/starter.js": "pages/starter.js.map",
+    "server.js": "server.js.map"
+  }
+}

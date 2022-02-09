@@ -5,8 +5,443 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1dd6c63b-20e7-4898-b54a-3002b481b4a6" name="Changes" comment="9/2/2022">
+      <change afterPath="$PROJECT_DIR$/dist/.nojekyll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/200.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/23a8d0a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/2d434f7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/32f7979.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/3890033.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/393175f.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/3b19016.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/6104a4a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/7510dac.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/7923afb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/7cc28a3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/83e5170.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/8bc0278.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/8f580ef.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/9126a69.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/94b1e18.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/9994c34.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/LICENSES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/a07581e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/a291571.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/b08e1fc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/b0d8f12.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/b2df4fc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/b38addd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/baf1699.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/ce84d87.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/cf6d2a7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/css/063ee82.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/css/13b9554.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/css/27c9260.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/css/285583b.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/css/7cb0f85.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/css/7f70082.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/css/848eb30.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/css/997bc13.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/css/ad82950.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/css/b4dadd7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/css/c15b82d.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/css/e6f43e7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/ddb2df7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/e4536c6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/e60ab0e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/fonts/element-icons.313f7da.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/fonts/element-icons.4520188.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/fonts/nucleo-outline.1a1036e.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/fonts/nucleo-outline.56814a6.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/fonts/nucleo-outline.802141d.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/fonts/nucleo-outline.af652ed.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/icons/icon_120x120.46472c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/icons/icon_144x144.46472c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/icons/icon_152x152.46472c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/icons/icon_192x192.46472c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/icons/icon_384x384.46472c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/icons/icon_512x512.46472c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/icons/icon_64x64.46472c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/icons/splash_ipad_1536x2048.46472c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/icons/splash_ipadpro10_1668x2224.46472c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/icons/splash_ipadpro12_2048x2732.46472c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/icons/splash_ipadpro9_1536x2048.46472c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/icons/splash_iphone6_50x1334.46472c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/icons/splash_iphoneplus_1080x1920.46472c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/icons/splash_iphonese_640x1136.46472c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/icons/splash_iphonex_1125x2436.46472c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/icons/splash_iphonexr_828x1792.46472c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/icons/splash_iphonexsmax_1242x2688.46472c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/_nuxt/manifest.0f636695.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/about/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/blog-post/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/blog-posts/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/components/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/contact/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/ecommerce/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/apple-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/balmain.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg51.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bg9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bghome.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bghome.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bghome2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/bghome3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/blog1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/blurred-image-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/boglioli.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/card-blog2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/card-blog3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/contact-us-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/contact1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/cov1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/creative-tim-white-slim2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/default-avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/emily.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/emilyz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/examples/card-blog10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/examples/card-blog11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/examples/card-blog12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/examples/card-blog13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/examples/card-blog14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/examples/card-blog15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/examples/card-blog16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/examples/card-blog17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/examples/card-blog18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/examples/card-blog4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/examples/card-blog5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/examples/card-blog6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/examples/card-blog7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/examples/card-blog9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/examples/card-profile1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/examples/card-profile2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/examples/card-profile3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/examples/card-project1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/examples/office1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/AD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/AE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/AG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/AR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/AT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/AU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/BE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/BF.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/BG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/BO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/BR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/CA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/CD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/CG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/CH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/CL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/CM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/CN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/CO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/CZ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/DE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/DJ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/DK.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/DZ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/EE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/EG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/ES.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/FI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/FR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/GA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/GB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/GM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/GT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/HN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/HT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/HU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/ID.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/IE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/IL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/IN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/IQ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/IR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/IT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/JM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/JO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/JP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/KG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/KN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/KP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/KW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/KZ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/LA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/LB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/LC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/LS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/LU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/LV.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/MG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/MK.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/ML.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/MM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/MT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/MX.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/NA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/NE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/NG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/NI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/NL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/NO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/OM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/PA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/PG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/PK.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/PL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/PT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/PY.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/QA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/RO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/RU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/RW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/SA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/SE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/SG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/SL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/SN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/SO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/SV.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/TD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/TJ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/TL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/TR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/TZ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/UA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/US.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/VE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/VN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/flags/YE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/github.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/gucci.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/hero-image-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/hero-image-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/hero-image-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/home3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/home4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/icons/android-chrome-96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/icons/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/icons/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/icons/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/icons/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/icons/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/image_placeholder.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/invision-white-slim.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/ipad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/ipad2-inverted.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/ipad2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/ipad3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/iphone2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/james.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/julie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/kingsman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/landing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/login.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/logo-square.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/marie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/michael.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/mike.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/now-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/nucleo-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/olivia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/placeholder.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/polo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/pp-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/pp-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/pp-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/pp-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/pp-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/pp-cov.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/prada.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/basic_thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/bg50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/blogpost1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/blogpost2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/blogpost3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/blogpost4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/blogpost5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/card1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/card2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/card3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/card4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/card5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/card6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/card7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/cards_thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/coloured-card-with-btn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/coloured-card.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/contact1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/contact2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/content1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/content3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/content3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/content4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/content4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/features1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/features2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/features3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/features4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/features5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/features6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/features7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/features8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/harvard.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/header1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/header2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/header3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/header4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/header5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/linkedin-btn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/microsoft.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/nuk-pro-back-sky-black.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/nuk-pro-back-sky-green.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/nuk-pro-back-sky-orange.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/nuk-pro-buildings-black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/nuk-pro-buildings-green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/pages/about-us.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/pages/blog-post.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/pages/blog-posts.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/pages/contact.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/pages/ecommerce.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/pages/landing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/pages/login.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/pages/pricing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/pages/product.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/pages/profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/pages/signup.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/pages2_thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/pages_thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/pricing1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/pricing2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/pricing3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/pricing4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/pricing5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/projects1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/projects2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/projects3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/projects4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/projects5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/sections_thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/share-btn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/social-row.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/stanford.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/table.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/team1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/team2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/team3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/team4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/team5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/testimonials1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/testimonials2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/testimonials3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/presentation-page/vodafone.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/pricing1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/pricing2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/pricing3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/pricing4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/product1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/product2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/product3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/project1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/project10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/project11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/project12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/project13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/project14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/project15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/project16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/project17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/project18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/project19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/project2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/project20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/project21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/project22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/project23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/project24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/project4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/project5 .jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/project5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/project6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/project7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/project8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/project9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/ryan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/saint-laurent.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/saint-laurent1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/sweeney.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/tom-ford.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/usher.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/wooyoungmi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index-sample/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/landing/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/login/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/pricing/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/product/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/profile/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/sections/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/signup/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/starter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/sw.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/routes.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/routes.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/client.js" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/loading.html" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/loading.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/workbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/workbox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/sw.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/sw.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +453,11 @@
       <list>
         <option value="shadiqsharma &lt;shadiqsharma@gmail.com&gt;" />
       </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -44,6 +484,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
     <property name="vuejs.nuxt.types-notification-shown" value="true" />
   </component>
@@ -68,7 +509,8 @@
       <workItem from="1643458948873" duration="2090000" />
       <workItem from="1643461046755" duration="2291000" />
       <workItem from="1644319304420" duration="127000" />
-      <workItem from="1644416394733" duration="3511000" />
+      <workItem from="1644416394733" duration="4270000" />
+      <workItem from="1644421320415" duration="826000" />
     </task>
     <task id="LOCAL-00001" summary="1st commit">
       <created>1643460960372</created>
@@ -123,7 +565,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="production" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
