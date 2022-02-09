@@ -78,6 +78,119 @@
         </div>
       </div>
     </div>
+<!--tab section-->
+
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-8 ml-auto mr-auto text-center">
+            <h2 class="title">Our Services</h2>
+            <tabs type="danger" centered pills>
+              <tab-pane label="Tour">
+                <div class="row">
+                  <div class="col-md-6 px-0 py-1">
+                    <card type="background" class="card-background-product card-no-shadow"
+                          style="background-image: url('img/project1.jpg')">
+
+                      <h6 class="category">Island Hopping</h6>
+                      <h3 class="card-title">
+                        Lorem Ipsum
+                      </h3>
+                      <p class="card-description">
+                        Best island hopping package
+                      </p>
+
+                    </card>
+                  </div>
+                  <div class="col-md-6 px-0 py-1">
+                    <card type="background" raised class="card-background-product card-no-shadow"
+                          style="background-image: url('img/project18.jpg')">
+                      <h6 class="category">Mangroove Tour</h6>
+                      <h3 class="card-title">Lorem Ipsum</h3>
+                      <p class="card-description">
+                        Best Mangroove tour Package
+                      </p>
+
+                    </card>
+                  </div>
+
+                </div>
+              </tab-pane>
+              <tab-pane label="F&B">
+                <div class="row">
+                  <div class="col-md-6 px-0">
+                    <card type="background"
+                          class="card-background-product card-no-shadow"
+                          style="background-image: url('img/project20.jpg')">
+                      <h6 class="category">Fiction</h6>
+                      <h3 class="card-title">The Sun Also Rises</h3>
+                      <p class="card-description">
+                        The most commonly read works are works of fiction. Fiction books are ones that have been
+                        made up...
+                      </p>
+                      <n-button type="neutral" round>
+                        <i class="now-ui-icons ui-1_send"></i> Learn more
+                      </n-button>
+                    </card>
+                  </div>
+                  <div class="col-md-6 px-0">
+                    <card type="background"
+                          class="card-background-product card-no-shadow"
+                          style="background-image: url('img/project19.jpg')">
+                      <h6 class="category">Basic Civitas</h6>
+                      <h3 class="card-title">The Right Mistake</h3>
+                      <p class="card-description">
+                        Living in South Central L.A., Socrates Fortlow is a sixty-year-old ex-convict, still
+                        strong enough to kill men with...
+                      </p>
+                      <n-button type="danger" round>
+                        <i class="now-ui-icons ui-1_send"></i> Read Now
+                      </n-button>
+                    </card>
+                  </div>
+                </div>
+              </tab-pane>
+              <tab-pane label="Scooter Rental">
+
+                <div class="col-md-6 px-0">
+                  <card type="background"
+                        class="card-background-product card-no-shadow"
+                        style="background-image: url('img/project19.jpg')">
+                    <h6 class="category">Basic Civitas</h6>
+                    <h3 class="card-title">The Right Mistake</h3>
+                    <p class="card-description">
+                      Living in South Central L.A., Socrates Fortlow is a sixty-year-old ex-convict, still
+                      strong enough to kill men with...
+                    </p>
+                    <n-button type="danger" round>
+                      <i class="now-ui-icons ui-1_send"></i> Read Now
+                    </n-button>
+                  </card>
+                </div>
+              </tab-pane>
+              <tab-pane label="Others">
+                <div class="row">
+                  <div class="col-md-6 px-0">
+                    <card type="background"
+                          class="card-background-product card-no-shadow"
+                          style="background-image: url('img/project20.jpg')">
+                      <h6 class="category">Fiction</h6>
+                      <h3 class="card-title">The Sun Also Rises</h3>
+                      <p class="card-description">
+                        The most commonly read works are works of fiction. Fiction books are ones that have been
+                        made up...
+                      </p>
+
+                    </card>
+                  </div>
+
+                </div>
+              </tab-pane>
+            </tabs>
+          </div>
+        </div>
+
+      </div>
+
 
     <div class="testimonials-1 section-image" style="background-image: url('img/bg19.jpg')">
       <div class="container">
