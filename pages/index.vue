@@ -84,7 +84,7 @@
         <div class="row">
           <div class="col-md-8 ml-auto mr-auto text-center">
             <h2 class="title">Our Services</h2>
-            <tabs type="danger" centered pills>
+            <tabs type="success" centered pills>
               <tab-pane label="Tour">
                 <div class="row">
                   <div class="col-md-6 px-0 py-1">
