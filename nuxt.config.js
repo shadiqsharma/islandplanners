@@ -1,5 +1,6 @@
 
 module.exports = {
+
   /*
   ** Headers of the page
   */

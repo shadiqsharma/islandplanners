@@ -192,6 +192,7 @@
       </div>
 
 
+
     <div class="testimonials-1 section-image" style="background-image: url('img/bg19.jpg')">
       <div class="container">
         <div class="row">
@@ -258,6 +259,7 @@
         </div>
       </div>
     </div>
+    <carousel-section></carousel-section>
     <div class="pricing-2">
       <div class="pricing-2" id="pricing-2">
         <div class="container">
@@ -395,7 +397,9 @@
 </template>
 <script>
 import { Card, Button, FormGroupInput, Tabs, TabPane } from '@/components';
-import initParallax from '@/utils/initParallax'
+import initParallax from '@/utils/initParallax';
+import CarouselSection from '@/components/pages/components/CarouselSection';
+
 export default {
   name: 'landing-page',
   layout: 'gray-footer',
@@ -404,7 +408,8 @@ export default {
     Tabs,
     TabPane,
     [Button.name]: Button,
-    [FormGroupInput.name]: FormGroupInput
+    [FormGroupInput.name]: FormGroupInput,
+    CarouselSection
   },
   data() {
     return {
