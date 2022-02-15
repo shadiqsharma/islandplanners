@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dd6c63b-20e7-4898-b54a-3002b481b4a6" name="Changes" comment="9/2/2022">
-      <change afterPath="$PROJECT_DIR$/static/img/nanda/room1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/nanda/room2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/nanda/room3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn-error.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/pages/components/CarouselSection.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/pages/components/CarouselSection.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/nuxt.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.vue" afterDir="false" />
-    </list>
+    <list default="true" id="1dd6c63b-20e7-4898-b54a-3002b481b4a6" name="Changes" comment="9/2/2022" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +81,7 @@
       <workItem from="1644585250242" duration="749000" />
       <workItem from="1644589461827" duration="2525000" />
       <workItem from="1644846258460" duration="1322000" />
-      <workItem from="1644847605130" duration="1129000" />
+      <workItem from="1644847605130" duration="1890000" />
     </task>
     <task id="LOCAL-00001" summary="1st commit">
       <created>1643460960372</created>
@@ -134,7 +125,28 @@
       <option name="project" value="LOCAL" />
       <updated>1644418333364</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="9/2/2022">
+      <created>1644848765935</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1644848765935</updated>
+    </task>
+    <task id="LOCAL-00008" summary="9/2/2022">
+      <created>1644848893799</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1644848893799</updated>
+    </task>
+    <task id="LOCAL-00009" summary="9/2/2022">
+      <created>1644848898652</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1644848898652</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
