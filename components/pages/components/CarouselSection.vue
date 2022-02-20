@@ -2,7 +2,7 @@
     <div class="section" id="carousel">
         <div class="container">
             <div class="row justify-content-center">
-                <div class="col-12">
+                <div class="col-lg-12">
                     <el-carousel height="500px" >
                         <el-carousel-item class="carousel-item">
                             <img class="d-block" src="img/bghome.png" alt="First slide">

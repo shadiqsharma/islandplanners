@@ -1,2 +1,2 @@
 // ADD YOUR OWN GOOGLE MAPS API KEY HERE
-export const API_KEY = ''
+export const API_KEY = 'AIzaSyDUh8xfGaVXb-dAxyUttk5tEjLqY3zeLYA'

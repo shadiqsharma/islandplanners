@@ -86,7 +86,7 @@
                 id="map"
                 class="big-map"
                 :center="center"
-                :zoom="13"
+                :zoom="18"
                 :options="options"
                 map-type-id="terrain">
             <gmap-marker :position="center">
@@ -121,8 +121,8 @@
           phone: ''
         },
         center: {
-          lat: 40.748817,
-          lng: -73.985428
+          lat: 6.29486,
+          lng: 99.72578
         },
         options: {
           styles: []

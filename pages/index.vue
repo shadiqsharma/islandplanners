@@ -193,7 +193,7 @@
 
 
 
-    <div class="testimonials-1 section-image" style="background-image: url('img/bg19.jpg')">
+    <div class="testimonials-1 section-image" style="background-image: url('img/background05.jpg')">
       <div class="container">
         <div class="row">
           <div class="col-md-6 ml-auto mr-auto text-center">
@@ -204,56 +204,55 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-4">
-            <card type="testimonial">
-              <img slot="avatar" class="img img-raised" src="img/michael.jpg">
-              <p class="card-description">
-                The networking at Web Summit is like no other European tech conference.
-              </p>
-              <template slot="raw-content">
-                <div class="icon icon-success">
-                  <i class="fas fa-quote-right"></i>
-                </div>
-                <div class="card-footer">
-                  <h4 class="card-title">Michael Elijah</h4>
-                  <p class="category">@michaelelijah</p>
-                </div>
-              </template>
+          <div class="col-md-6 col-lg-4">
+            <card type="blog" plain>
+              <img slot="image" class="img rounded img-raised" src="img/doubleroom.jpg" width="400" height="250">
+              <div class="card-body">
+                <h6 class="category text-warning">
+                  <i class="now-ui-icons business_bulb-63"></i> Double
+                </h6>
+                <h5 class="card-title">
+                  <a href="#nuk">Stay Focused: Train Your Brain</a>
+                </h5>
+                <p class="card-description">
+                  Our brains are finely attuned to distraction, so today's digital environment makes it
+                  especially hard to focus...
+                </p>
+              </div>
             </card>
           </div>
-          <div class="col-md-4">
-            <card type="testimonial">
-              <img slot="avatar" class="img img-raised" src="img/olivia.jpg">
-              <p class="card-description">
-                The connections you make at Web Summit are unparalleled, we met users all over the
-                world.
-              </p>
-              <template slot="raw-content">
-                <div class="icon icon-success">
-                  <i class="fas fa-quote-right"></i>
-                </div>
-                <div class="card-footer">
-                  <h4 class="card-title">Olivia Harper</h4>
-                  <p class="category">@oliviaharper</p>
-                </div>
-              </template>
+          <div class="col-md-6 col-lg-4">
+            <card type="blog" plain>
+              <img slot="image" class="img rounded img-raised" src="img/tripleroom.jpg" width="400" height="250">
+              <div class="card-body">
+                <h6 class="category text-warning">
+                  <i class="now-ui-icons business_bulb-63"></i> Triple Threat
+                </h6>
+                <h5 class="card-title">
+                  <a href="#nuk">Stay Focused: Train Your Brain</a>
+                </h5>
+                <p class="card-description">
+                  Our brains are finely attuned to distraction, so today's digital environment makes it
+                  especially hard to focus...
+                </p>
+              </div>
             </card>
           </div>
-          <div class="col-md-4">
-            <card type="testimonial">
-              <img slot="avatar" class="img img-raised" src="img/james.jpg">
-              <p class="card-description">
-                Web Summit will increase your appetite, your inspiration, and your network.
-              </p>
-              <template slot="raw-content">
-                <div class="icon icon-success">
-                  <i class="fas fa-quote-right"></i>
-                </div>
-                <div class="card-footer">
-                  <h4 class="card-title">James Logan</h4>
-                  <p class="category">@jameslogan</p>
-                </div>
-              </template>
+          <div class="col-md-6 col-lg-4">
+            <card type="blog" plain>
+              <img slot="image" class="img rounded img-raised" src="img/doubleroom2.jpg" width="400" height="250">
+              <div class="card-body">
+                <h6 class="category text-warning">
+                  <i class="now-ui-icons business_bulb-63"></i> Single
+                </h6>
+                <h5 class="card-title">
+                  <a href="#nuk">Stay Focused: Train Your Brain</a>
+                </h5>
+                <p class="card-description">
+                  Our brains are finely attuned to distraction, so today's digital environment makes it
+                  especially hard to focus...
+                </p>
+              </div>
             </card>
           </div>
         </div>
